@@ -81,6 +81,4 @@ celsiusLink.addEventListener("click", displayCelsiusTemperature);
 
 
 
-
-
 search("Melbourne");
