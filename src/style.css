@@ -80,7 +80,7 @@ top: -34px;
 }
 
 
-.weather-forecast-date, {
+.weather-forecast-date {
   font-size: 16px;
   opacity: 0.6;
 }
